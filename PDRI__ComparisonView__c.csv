@@ -1,0 +1,7 @@
+"Guid","Name","PDRI__Active__c","PDRI__Default__c","PDRI__Description__c"
+0bc829a5-8508-4d5a-bc25-4fd3a530b0ab,"Objects, Permission Sets, and Profiles",true,false,"#N/A"
+2a992d99-604f-4d4c-a5ea-32352a4b0731,"Objects, Flows, and Workflow Rules",true,false,"#N/A"
+5b7442db-25bd-49fe-bc52-096bff759140,Profiles,true,false,"#N/A"
+602893da-2fc1-465d-aed1-eca5cd70a9a5,"Objects, Flows, Workflow Rules, Permission Sets, and Profiles",true,false,"#N/A"
+ad8c36fb-ebd6-4e56-9578-d9b34462a7be,All Major Metadata Types,true,true,"#N/A"
+c597d516-4a5e-4750-a090-35365c550502,Custom Objects,true,false,"#N/A"
